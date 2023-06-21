@@ -91,6 +91,14 @@ nav ul li a:hover {
   display: flex;
   padding: 1rem 0rem;
 }
+.button a{
+  text-decoration: none;
+  color: white;
+}
+.btn2 a{
+  text-decoration: none;
+  color: white;
+}
 .btn,
 .btn1 {
   background-color: rgb(18, 18, 62);
