@@ -91,11 +91,11 @@ nav ul li a:hover {
   display: flex;
   padding: 1rem 0rem;
 }
-.button a{
+.button a {
   text-decoration: none;
   color: white;
 }
-.btn2 a{
+.btn2 a {
   text-decoration: none;
   color: white;
 }
@@ -350,7 +350,6 @@ svg {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  cursor: pointer;
 }
 .boxes .icons {
   width: 14%;
@@ -360,6 +359,9 @@ svg {
   justify-content: space-around;
   align-items: center;
   border: 2px solid rgb(18, 18, 62);
+}
+.icons a {
+  text-decoration: none;
 }
 .icons p {
   color: rgb(170, 107, 228);
