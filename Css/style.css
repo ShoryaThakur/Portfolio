@@ -581,7 +581,7 @@ footer {
     font-size: 0.8rem;
   }
 }
-@media only screen and (max-width: 354px) {
+@media only screen and (max-width: 364px) {
   .first-section .left-section {
     font-size: 1.2rem;
   }
