@@ -290,7 +290,7 @@ svg {
 }
 .fifth-section .container {
   width: 85%;
-  min-height: 75px;
+  min-height: 95px;
   margin: 0 auto;
   display: flex;
   justify-content: center;
@@ -337,7 +337,7 @@ svg {
 }
 .sixth-section .container {
   width: 85%;
-  min-height: 80px;
+  min-height: 85px;
   margin: 0 auto;
   display: flex;
   justify-content: center;
@@ -523,13 +523,13 @@ footer {
     margin: 0.5rem 0;
   }
   .fourth-section .container {
-    min-height: 65px;
+    min-height: 80px;
   }
   .fourth-section .container h1 {
     font-size: 2.5rem;
   }
   .fifth-section .container {
-    min-height: 60px;
+    min-height: 80px;
   }
   .fifth-section .container h1 {
     font-size: 2.5rem;
@@ -566,7 +566,7 @@ footer {
     margin: 0.5rem 0;
   }
   .fifth-section .container {
-    min-height: 55px;
+    min-height: 65px;
   }
   .fifth-section .container h1 {
     font-size: 2rem;
@@ -576,7 +576,7 @@ footer {
     margin: 0.5rem 0;
   }
   .sixth-section .container {
-    min-height: 60px;
+    min-height: 65px;
   }
   .sixth-section h1 {
     font-size: 2rem;
