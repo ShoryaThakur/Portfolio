@@ -1,5 +1,5 @@
 var typed = new Typed("#element", {
-  strings: ["Front-end Developer.", "YouTuber.", "Video Editor."],
+  strings: ["Video Editor.", "YouTuber.", "Front-end Developer."],
   typeSpeed: 50,
 });
 function refresh() {
