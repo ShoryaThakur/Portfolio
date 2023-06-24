@@ -550,6 +550,9 @@ footer {
   .first-section .left-section {
     font-size: 1.5rem;
   }
+  .btn a{
+    font-size: 0.65rem;
+  }
   /* .second-section .container .contain ul {
     font-size: 0.75rem;
   }
