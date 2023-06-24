@@ -436,6 +436,8 @@ footer {
   }
   .fa-navicon {
     display: block;
+    position: relative;
+    left: 1rem;
     color: white;
     font-weight: 300;
     cursor: pointer;
