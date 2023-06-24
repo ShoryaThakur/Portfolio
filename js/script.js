@@ -1,6 +1,7 @@
 var typed = new Typed("#element", {
-  strings: ["Video Editor.", "YouTuber.", "Front-end Developer."],
-  typeSpeed: 50,
+  strings: ["Front-end Developer.", "YouTuber.", "Video Editor."],
+  typeSpeed: 70,
+  loop: true,
 });
 function refresh() {
   location.reload();
