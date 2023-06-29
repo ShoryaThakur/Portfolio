@@ -6,8 +6,9 @@ var typed = new Typed("#element", {
 function refresh() {
   location.reload();
 }
-$(function () {
+// $(function () {
   $(".fa-navicon").click(function () {
     $(".right ul").slideToggle();
   });
-});
+  // );
+  // }
