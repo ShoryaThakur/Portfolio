@@ -6,9 +6,23 @@ var typed = new Typed("#element", {
 function refresh() {
   location.reload();
 }
-// $(function () {
-  $(".fa-navicon").click(function () {
-    $(".right ul").slideToggle();
-  });
-  // );
-  // }
+
+$(".fa-navicon").click(function () {
+  $(".right ul").slideToggle();
+});
+
+
+//How To Make a Sticky Navbar which changes color after scrolling 
+
+// let headerEL = document.querySelector("header");
+// window.addEventListener("scroll", () => {
+//   console.log("MY");
+//   if (window.scrollY > 10) {
+//     headerEL.classList.add("active");
+//     headerEL.style.width = "105px";
+//   }
+//   else{
+//     headerEL.classList.remove("active");
+//     headerEL.style.width = "100%";
+//   }
+// });
